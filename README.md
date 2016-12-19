@@ -1,2 +1,2 @@
 # proyecto-angular-polymer
-Proyecto con angular y polymer
+Proyecto creado con AngularJS y con Polymer
